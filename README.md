@@ -1,3 +1,4 @@
 dHJvamFuOi8vNmFLbGY1ZzNuVUB2Mi5odWFsLnRvcDoyNzAyMiMlRTclQkUlOEUlMjBDTjIlMjBHSUElMjBVUw==
 
-vless://90bfe471-be00-4d8d-eb0b-41bdab8c1465@193.53.127.195:14660?type=tcp&security=xtls&flow=xtls-rprx-direct#RU
+
+dmxlc3M6Ly85MGJmZTQ3MS1iZTAwLTRkOGQtZWIwYi00MWJkYWI4YzE0NjVAMTkzLjUzLjEyNy4xOTU6MTQ2NjA/dHlwZT10Y3Amc2VjdXJpdHk9eHRscyZmbG93PXh0bHMtcnByeC1kaXJlY3QjUlU=
